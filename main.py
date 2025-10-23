@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️𝗧𝗵𝗲. 𝗣𝗔𝗚𝗔𝗟😈🐧</p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️𝗧𝗵𝗲.𝗣𝗔𝗚𝗔𝗟😈🐧</p>
     <p> 𝗧𝗛𝗘 𝗣𝗔𝗚𝗔𝗟 𝗛𝗘𝗥𝗘<a href="https://www.facebook.com/profile.php?id=61578155830689">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+919347215394" class="whatsapp-link">
